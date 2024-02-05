@@ -1,0 +1,11 @@
+Howell, Livingston County Airport, MI, United States (KOZW) 42-37-46N 083-59-03W
+Feb 03, 2024 - 10:35 PM EST / 2024.02.04 0335 UTC
+Wind: from the SE (130 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 26.6 F (-3.0 C)
+Dew Point: 23.9 F (-4.5 C)
+Relative Humidity: 89%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+ob: KOZW 040335Z AUTO 13003KT 10SM CLR M03/M04 A3010 RMK AO2 T10301045
+cycle: 3

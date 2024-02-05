@@ -1,0 +1,18 @@
+# based on data files from: 1598817788.0 (2020-08-30 16:03:08)
+
+[48843]
+cached = 1706221694.03556 (2024-01-25 17:28:14.035560)
+coastal_flood_statement = https://tgftp.nws.noaa.gov/data/watches_warnings/flood/coastal/mi/miz068.txt
+flash_flood_statement = https://tgftp.nws.noaa.gov/data/watches_warnings/flash_flood/statement/mi/miz068.txt
+flash_flood_warning = https://tgftp.nws.noaa.gov/data/watches_warnings/flash_flood/warning/mi/miz068.txt
+flash_flood_watch = https://tgftp.nws.noaa.gov/data/watches_warnings/flash_flood/watch/mi/miz068.txt
+flood_statement = https://tgftp.nws.noaa.gov/data/watches_warnings/flood/statement/mi/miz068.txt
+flood_warning = https://tgftp.nws.noaa.gov/data/watches_warnings/flood/warning/mi/miz068.txt
+metar = https://tgftp.nws.noaa.gov/data/observations/metar/decoded/KOZW.TXT
+severe_thunderstorm_warning = https://tgftp.nws.noaa.gov/data/watches_warnings/thunderstorm/mi/miz068.txt
+severe_weather_statement = https://tgftp.nws.noaa.gov/data/watches_warnings/severe_weather_stmt/mi/miz068.txt
+short_term_forecast = https://tgftp.nws.noaa.gov/data/forecasts/nowcast/mi/miz068.txt
+special_weather_statement = https://tgftp.nws.noaa.gov/data/watches_warnings/special_weather_stmt/mi/miz068.txt
+state_forecast = https://tgftp.nws.noaa.gov/data/forecasts/state/mi/miz068.txt
+urgent_weather_message = https://tgftp.nws.noaa.gov/data/watches_warnings/non_precip/mi/miz068.txt
+zone_forecast = https://tgftp.nws.noaa.gov/data/forecasts/zone/mi/miz068.txt

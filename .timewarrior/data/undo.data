@@ -1,0 +1,96 @@
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240128T165048Z"}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240128T165048Z"}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240128T165048Z","end":"20240128T165114Z"}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240128T170318Z","tags":["test"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240128T170318Z","tags":["test"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240128T170318Z","end":"20240129T033242Z","tags":["test"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240129T160101Z","tags":["prbtask"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240129T160101Z","tags":["prbtask"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240129T160101Z","end":"20240129T162602Z","tags":["prbtask"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240129T174547Z","tags":["Compliance","training"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240129T174547Z","tags":["Compliance","training"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240129T174547Z","end":"20240129T182746Z","tags":["Compliance","training"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240129T182804Z","tags":["GWLT","OOB","solution"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240129T182804Z","tags":["GWLT","OOB","solution"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240129T182804Z","end":"20240129T190242Z","tags":["GWLT","OOB","solution"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240129T190251Z","tags":["GWLTKC","session","work"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240129T190251Z","tags":["GWLTKC","session","work"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240129T190251Z","end":"20240129T202144Z","tags":["GWLTKC","session","work"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240129T202220Z","tags":["GWLT","Hadoop"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240129T202220Z","tags":["GWLT","Hadoop"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240129T202220Z","end":"20240129T203613Z","tags":["GWLT","Hadoop"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20240129T203622Z","tags":["Compliance","training"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20240129T203622Z","tags":["Compliance","training"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20240129T203622Z","end":"20240129T221413Z","tags":["Compliance","training"]}
+txn:
+  type: interval
+  before: {"id":8,"start":"20240128T165048Z","end":"20240128T165114Z"}
+  after: 
+txn:
+  type: interval
+  before: {"id":7,"start":"20240128T170318Z","end":"20240129T033242Z","tags":["test"]}
+  after: 
