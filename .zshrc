@@ -119,6 +119,7 @@ alias la='exa -A'
 alias l='exa -CF'
 alias cat='batcat'
 alias du='duf'
+alias bounce='source ~/.zshrc'
 
 #eval "$(zoxide init zsh)"
 source ~/powerlevel10k/powerlevel10k.zsh-theme
@@ -128,3 +129,4 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 alias lzd='lazydocker'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+source ~/powerlevel10k/powerlevel10k.zsh-theme
