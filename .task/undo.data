@@ -1,0 +1,139 @@
+time 1706460774
+new [description:"Find new Xfinity plan" due:"1706504400" entry:"1706460774" modified:"1706460774" status:"pending" uuid:"09b642b4-fb0f-4f57-af9e-79cfad228bb1"]
+---
+time 1706460864
+new [description:"Put laundry away" due:"1706504400" entry:"1706460864" modified:"1706460864" status:"pending" uuid:"e5b671f4-d9fa-4ede-a6e6-9a0b0e2a6a32"]
+---
+time 1706460884
+new [description:"Figure out bills" due:"1706504400" entry:"1706460884" modified:"1706460884" status:"pending" uuid:"9c7dcf8e-bb2f-4eba-9e04-3f6ca91c08eb"]
+---
+time 1706461099
+new [description:"Filter work" due:"1706504400" entry:"1706461099" modified:"1706461099" status:"pending" uuid:"da5ab949-fa74-432f-9568-1740f2f64a4b"]
+---
+time 1706461131
+new [description:"Microsoft 0365 account" due:"1706418000" entry:"1706461131" modified:"1706461131" status:"pending" uuid:"5a82b543-a58f-44f2-862e-108d09b78e1b"]
+---
+time 1706461205
+new [description:"Rylans MS password change" due:"1706504400" entry:"1706461205" modified:"1706461205" status:"pending" uuid:"23d1cfc6-6d6d-4612-9bcb-f829c85354e2"]
+---
+time 1706461249
+new [description:"Gather tax dociments" due:"1706504400" entry:"1706461249" modified:"1706461249" status:"pending" uuid:"4ca60499-9850-4dce-826a-9e480d3fa51f"]
+---
+time 1706499128
+old [description:"Microsoft 0365 account" due:"1706418000" entry:"1706461131" modified:"1706461131" status:"pending" uuid:"5a82b543-a58f-44f2-862e-108d09b78e1b"]
+new [description:"Microsoft 0365 account" due:"1706418000" end:"1706499128" entry:"1706461131" modified:"1706499128" status:"completed" uuid:"5a82b543-a58f-44f2-862e-108d09b78e1b"]
+---
+time 1706499539
+old [description:"Rylans MS password change" due:"1706504400" entry:"1706461205" modified:"1706461205" status:"pending" uuid:"23d1cfc6-6d6d-4612-9bcb-f829c85354e2"]
+new [description:"Rylans MS password change" due:"1706504400" end:"1706499539" entry:"1706461205" modified:"1706499539" status:"completed" uuid:"23d1cfc6-6d6d-4612-9bcb-f829c85354e2"]
+---
+time 1706502713
+new [description:"Replace batteries in doorbell\/lock" due:"1706504400" entry:"1706502713" modified:"1706502713" status:"pending" uuid:"6a0507fb-872d-4b54-9c1f-6d7556a2c3ae"]
+---
+time 1706502730
+new [description:"Fix onboot.sh script" due:"1706504400" entry:"1706502730" modified:"1706502730" status:"pending" uuid:"939cb5a3-8231-4b5b-bc53-5f0978a7f4e6"]
+---
+time 1706502744
+new [description:"Catch up on timecards" due:"1706504400" entry:"1706502744" modified:"1706502744" status:"pending" uuid:"5726fa72-6b1a-4f7c-8d19-15e14d72ba1c"]
+---
+time 1706502760
+new [description:"Compliance training" due:"1706763600" entry:"1706502760" modified:"1706502760" status:"pending" uuid:"23887035-c71d-4744-a96f-db982c3a736d"]
+---
+time 1706502779
+new [description:"test afternoon" due:"1706504400" entry:"1706502779" modified:"1706502779" status:"pending" uuid:"f2ab1994-ed15-407f-953f-9fb23dc4589a"]
+---
+time 1706502799
+old [description:"test afternoon" due:"1706504400" entry:"1706502779" modified:"1706502779" status:"pending" uuid:"f2ab1994-ed15-407f-953f-9fb23dc4589a"]
+new [description:"test afternoon" due:"1706504400" end:"1706502796" entry:"1706502779" modified:"1706502799" status:"deleted" uuid:"f2ab1994-ed15-407f-953f-9fb23dc4589a"]
+---
+time 1706534847
+new [description:"Start up aquarium Monday" due:"1706551200" entry:"1706534847" modified:"1706534847" status:"pending" uuid:"e871e755-4510-4531-a670-19a8059c8353"]
+---
+time 1706534881
+old [description:"Start up aquarium Monday" due:"1706551200" entry:"1706534847" modified:"1706534847" status:"pending" uuid:"e871e755-4510-4531-a670-19a8059c8353"]
+new [description:"Start up aquarium Monday" due:"1706551200" end:"1706534879" entry:"1706534847" modified:"1706534881" status:"deleted" uuid:"e871e755-4510-4531-a670-19a8059c8353"]
+---
+time 1706534889
+new [description:"Start up aquarium" due:"1706551200" entry:"1706534889" modified:"1706534889" status:"pending" uuid:"718d9cd0-2aa4-41f5-939b-ca8abd71be54"]
+---
+time 1706540777
+new [description:"Block Youtube" due:"1706504400" entry:"1706540777" modified:"1706540777" status:"pending" uuid:"27e6450f-eb58-4579-879b-31bdd41ed488"]
+---
+time 1706540795
+new [description:"Block Xbox" due:"1706504400" entry:"1706540795" modified:"1706540795" status:"pending" uuid:"003db1fa-222c-43df-a811-8ffe2001a521"]
+---
+time 1706540857
+new [description:"Follow up with CSA" due:"1706504400" entry:"1706540857" modified:"1706540857" status:"pending" uuid:"78a6a12e-904d-4535-aad3-76bc77dd4507"]
+---
+time 1706544081
+old [description:"Start up aquarium" due:"1706551200" entry:"1706534889" modified:"1706534889" status:"pending" uuid:"718d9cd0-2aa4-41f5-939b-ca8abd71be54"]
+new [description:"Start up aquarium" due:"1706551200" end:"1706544081" entry:"1706534889" modified:"1706544081" status:"completed" uuid:"718d9cd0-2aa4-41f5-939b-ca8abd71be54"]
+---
+time 1706544406
+old [description:"Block Xbox" due:"1706504400" entry:"1706540795" modified:"1706540795" status:"pending" uuid:"003db1fa-222c-43df-a811-8ffe2001a521"]
+new [description:"Block Xbox" due:"1706504400" end:"1706544406" entry:"1706540795" modified:"1706544406" status:"completed" uuid:"003db1fa-222c-43df-a811-8ffe2001a521"]
+---
+time 1706544473
+new [description:"Find Rylans Alexa" due:"1706504400" entry:"1706544473" modified:"1706544473" status:"pending" uuid:"433e8cc2-39ea-4d8e-aed5-a8ab627dce5d"]
+---
+time 1706546333
+new [description:"Call Lansing Peds" due:"1706504400" entry:"1706546333" modified:"1706546333" status:"pending" uuid:"846fe7d4-6d23-4a61-8a8a-e903c6d1c9af"]
+---
+time 1706547146
+old [description:"Replace batteries in doorbell\/lock" due:"1706504400" entry:"1706502713" modified:"1706502713" status:"pending" uuid:"6a0507fb-872d-4b54-9c1f-6d7556a2c3ae"]
+new [description:"Replace batteries in doorbell\/lock" due:"1706504400" end:"1706547146" entry:"1706502713" modified:"1706547146" status:"completed" uuid:"6a0507fb-872d-4b54-9c1f-6d7556a2c3ae"]
+---
+time 1706548064
+old [description:"Fix onboot.sh script" due:"1706504400" entry:"1706502730" modified:"1706502730" status:"pending" uuid:"939cb5a3-8231-4b5b-bc53-5f0978a7f4e6"]
+new [description:"Fix onboot.sh script" due:"1706504400" end:"1706548064" entry:"1706502730" modified:"1706548064" status:"completed" uuid:"939cb5a3-8231-4b5b-bc53-5f0978a7f4e6"]
+---
+time 1706548133
+old [description:"Figure out bills" due:"1706504400" entry:"1706460884" modified:"1706460884" status:"pending" uuid:"9c7dcf8e-bb2f-4eba-9e04-3f6ca91c08eb"]
+new [description:"Figure out bills" due:"1706677200" entry:"1706460884" modified:"1706548133" status:"pending" uuid:"9c7dcf8e-bb2f-4eba-9e04-3f6ca91c08eb"]
+---
+time 1706548196
+old [description:"Filter work" due:"1706504400" entry:"1706461099" modified:"1706461099" status:"pending" uuid:"da5ab949-fa74-432f-9568-1740f2f64a4b"]
+new [description:"Filter work" due:"1706763600" entry:"1706461099" modified:"1706548196" status:"pending" uuid:"da5ab949-fa74-432f-9568-1740f2f64a4b"]
+---
+time 1706548206
+old [description:"Follow up with CSA" due:"1706504400" entry:"1706540857" modified:"1706540857" status:"pending" uuid:"78a6a12e-904d-4535-aad3-76bc77dd4507"]
+new [description:"Follow up with CSA" due:"1706504400" end:"1706548206" entry:"1706540857" modified:"1706548206" status:"completed" uuid:"78a6a12e-904d-4535-aad3-76bc77dd4507"]
+---
+time 1706559673
+old [description:"Call Lansing Peds" due:"1706504400" entry:"1706546333" modified:"1706546333" status:"pending" uuid:"846fe7d4-6d23-4a61-8a8a-e903c6d1c9af"]
+new [description:"Call Lansing Peds" due:"1706504400" end:"1706559673" entry:"1706546333" modified:"1706559673" status:"completed" uuid:"846fe7d4-6d23-4a61-8a8a-e903c6d1c9af"]
+---
+time 1706566427
+old [description:"Compliance training" due:"1706763600" entry:"1706502760" modified:"1706502760" status:"pending" uuid:"23887035-c71d-4744-a96f-db982c3a736d"]
+new [description:"Compliance training" due:"1706763600" end:"1706566427" entry:"1706502760" modified:"1706566427" status:"completed" uuid:"23887035-c71d-4744-a96f-db982c3a736d"]
+---
+time 1706828319
+old [description:"Put laundry away" due:"1706504400" entry:"1706460864" modified:"1706460864" status:"pending" uuid:"e5b671f4-d9fa-4ede-a6e6-9a0b0e2a6a32"]
+new [description:"Put laundry away" due:"1706504400" end:"1706828316" entry:"1706460864" modified:"1706828319" status:"deleted" uuid:"e5b671f4-d9fa-4ede-a6e6-9a0b0e2a6a32"]
+---
+time 1707018073
+old [description:"Gather tax dociments" due:"1706504400" entry:"1706461249" modified:"1706461249" status:"pending" uuid:"4ca60499-9850-4dce-826a-9e480d3fa51f"]
+new [description:"Gather tax dociments" due:"1706504400" end:"1707018073" entry:"1706461249" modified:"1707018073" status:"completed" uuid:"4ca60499-9850-4dce-826a-9e480d3fa51f"]
+---
+time 1707145485
+new [description:"Review yearly work goals" entry:"1707145485" modified:"1707145485" status:"pending" uuid:"ec68cb81-0e6d-42d6-8c52-487cb5e77a22"]
+---
+time 1707159752
+new [description:"Fix kids sink drain" entry:"1707159752" modified:"1707159752" status:"pending" uuid:"3425fbf4-4b09-4886-85ba-30f285d12b96"]
+---
+time 1707159770
+new [description:"Fix on-booy script" entry:"1707159770" modified:"1707159770" status:"pending" uuid:"f218484e-ee06-497a-b67c-345997708e5b"]
+---
+time 1707159792
+old [description:"Fix on-booy script" entry:"1707159770" modified:"1707159770" status:"pending" uuid:"f218484e-ee06-497a-b67c-345997708e5b"]
+new [description:"Fix on-boot script" entry:"1707159770" modified:"1707159792" status:"pending" uuid:"f218484e-ee06-497a-b67c-345997708e5b"]
+---
+time 1707159808
+new [description:"Neovim" entry:"1707159808" modified:"1707159808" status:"pending" uuid:"2c3d9ed6-9817-4d24-9d95-7fb5318f2791"]
+---
+time 1707159845
+new [description:"Radio updates" entry:"1707159845" modified:"1707159845" status:"pending" uuid:"a394e115-23a5-4862-ac3d-667f30147243"]
+---
+time 1707161007
+new [description:"Complete yadm setup" entry:"1707161007" modified:"1707161007" status:"pending" uuid:"c6681957-0f86-4b9b-a010-64d0523b3153"]
+---
