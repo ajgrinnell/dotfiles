@@ -120,13 +120,10 @@ alias l='exa -CF'
 alias cat='batcat'
 alias du='duf'
 alias bounce='source ~/.zshrc'
-
-#eval "$(zoxide init zsh)"
-source ~/powerlevel10k/powerlevel10k.zsh-theme
+alias lzd='lazydocker'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-alias lzd='lazydocker'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 source ~/powerlevel10k/powerlevel10k.zsh-theme
