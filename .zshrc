@@ -121,6 +121,7 @@ alias cat='batcat'
 alias du='duf'
 alias bounce='source ~/.zshrc'
 alias lzd='lazydocker'
+alias vi='/usr/bin/nvim.appimage'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
