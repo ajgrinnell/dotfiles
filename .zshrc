@@ -84,6 +84,10 @@ git
 taskwarrior
 tmux
 python
+sudo
+zoxide
+nmap
+web-search
 )
 
 source $ZSH/oh-my-zsh.sh
