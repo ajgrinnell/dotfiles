@@ -129,4 +129,5 @@ alias vi='/usr/bin/nvim.appimage'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
+PATH="$HOME/.local/bin:$PATH"
 eval "$(zoxide init zsh)"
