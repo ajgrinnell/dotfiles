@@ -10,6 +10,7 @@ fi
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+export LC_CTYPE=en_US.UTF-8
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -128,6 +129,8 @@ alias bounce='source ~/.zshrc'
 alias lzd='lazydocker'
 alias vi='/usr/bin/nvim.appimage'
 alias cd='z'
+alias back='cd ..//'  
+alias aup='ssh -t pop-os.local ansible-playbook -i /usr/local/etc/ansible/hosts /usr/local/etc/ansible/playbooks/aptupdate.yml'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -137,3 +140,5 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 PATH="$HOME/.local/bin:$PATH"
 eval "$(zoxide init zsh)"
+
+ZSH_TMUX_AUTOSTART=true
